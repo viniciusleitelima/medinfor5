@@ -1585,7 +1585,7 @@ blockquote:after,
  */
 
 .site-header {
-	padding: 2.625em 7.6923%;
+	padding: 0.25em 7.6923%;
 }
 
 .site-header-main {
@@ -3417,8 +3417,7 @@ p > video {
 		width: 100%;
 	}
 
-	.no-sidebar .entry-header,
-	.no-sidebar .entry-content,
+	.no-sidebar .entry-header,	
 	.no-sidebar .entry-summary,
 	.no-sidebar .entry-footer,
 	.no-sidebar .comments-area,
@@ -3426,12 +3425,11 @@ p > video {
 	.no-sidebar .post-navigation,
 	.no-sidebar .pagination,
 	.no-sidebar .page-header,
-	.no-sidebar .page-content,
-	.no-sidebar .content-bottom-widgets {
+	.no-sidebar .page-content {
 		margin-right: 15%;
 		margin-left: 15%;
 	}
-
+	
 	.widecolumn {
 		padding-right: 15%;
 		padding-left: 15%;
@@ -3449,7 +3447,7 @@ p > video {
 	}
 
 	.site-header {
-		padding: 5.25em 4.5455%;
+		padding: 0.25em 4.5455%;
 	}
 
 	.site-branding,
